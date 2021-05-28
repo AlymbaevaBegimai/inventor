@@ -2,4 +2,6 @@ Mouse
 Keyboards
 Laptops
 Microphone 
-Клавиатура 
+Клавиатура флаг
+флаг
+книга

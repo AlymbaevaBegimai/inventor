@@ -15,7 +15,7 @@
     <div>This page is template!</div>
     <ol>
         {% for good in goods %}
-           <li></li>
+           <li>{{ loop.index }}{{ good }}</li>
         {% endfor %}
     </ol>
 </body> 
